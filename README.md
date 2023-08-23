@@ -1,0 +1,2 @@
+# Student-Record-Management-System
+ Implemented through SQL, the system facilitates efficient data storage and retrieval, encompassing essential details such as personal profiles, academic trajectories, address information, course records, and emergency contacts. With meticulously crafted tables and relationships, this system empowers educational institutions to maintain accurate records, ensure effective communication, and make informed decisions concerning student administration and support.
